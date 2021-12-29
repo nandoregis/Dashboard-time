@@ -8,7 +8,7 @@ Painel de controle de tempo
   <li>Tamplete usado do Front-end Mentor</li>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>Designer Responsivo</li>
+  <li>Design Responsivo</li>
   <li>JavaScript</li>
   <li>Arquivo - Json</li>
 </ul>
