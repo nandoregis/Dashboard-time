@@ -15,5 +15,5 @@ Painel de controle de tempo
 
  Usando um tamplete pronto do - FrontEnd Mentor - <br/>
 e HTML5 para marcação do projeto, CSS3 para estelização do HTML.<br/>
-E por opção usei JavaScript vanilla para a manipulação do conteudo Json.
+E por opção usei JavaScript vanilla para a manipulação do HTML e integração de valores do Json.
 
