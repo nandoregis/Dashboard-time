@@ -13,8 +13,7 @@ Painel de controle de tempo
   <li>Arquivo - Json</li>
 </ul>
 
- Usando um tamplete pronto do - FrontEnd Mentor - 
-e HTML5 para marcação do projeto, CSS3 para 
-estelização do HTML.
+ Usando um tamplete pronto do - FrontEnd Mentor - <br/>
+e HTML5 para marcação do projeto, CSS3 para estelização do HTML.<br/>
 E por opção usei JavaScript vanilla para a manipulação do conteudo Json.
 
